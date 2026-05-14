@@ -1,0 +1,20 @@
+{
+  "The Beauty Bar": {
+    "logo": "logos/beauty_bar.png",
+    "address": "106 Elizabethan Square, George Town",
+    "phone": "327-0011",
+    "email": "globebeautybarky@gmail.com"
+  },
+  "The Beauty Lounge": {
+    "logo": "logos/beauty_lounge.png",
+    "address": "106 Elizabethan Square, George Town",
+    "phone": "327-0011",
+    "email": "globebeautybarky@gmail.com"
+  },
+  "CRC Rentals": {
+    "logo": "logos/crc_rentals.png",
+    "address": "Elizabethan Square, George Town",
+    "phone": "1-345-322-7267",
+    "email": "islandgholdings@gmail.com"
+  }
+}
